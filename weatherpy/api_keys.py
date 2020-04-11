@@ -1,1 +1,1 @@
-weather_api_key='305b700e424bdcc4a3edcc186c831620'
+weather_api_key='YOUR API KEY HERE'
